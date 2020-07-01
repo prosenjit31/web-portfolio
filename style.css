@@ -61,7 +61,7 @@ section{
 
 #full-stack{
     border-left: 7px solid;
-    border-image: linear-gradien (180deg, lightsalmon,tomato);
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
     border-image-slice: 1;
 }
 
@@ -69,9 +69,10 @@ section{
 
 #bby-web{
     border-left: 7px solid;
-    border-image: linear-gradien(180deg,blue, cyan) ; 
+    border-image: linear-gradient(180deg,blue, cyan) ; 
     border-image-slice: 1;
 }
 footer p{
     text-align: center;
+    font-size: 12px;
 }
